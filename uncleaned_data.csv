@@ -1,0 +1,41 @@
+﻿ID,Start time,Completion time,Email,Name,Last modified time,Promedio escolar de licenciatura,Horas de estudio por semana (por favor considera las horas dedicadas a tareas también. Sólo tiempo fuera de clase),Horas promedio de sueño (diario),Edad,Horas promedio de uso de redes sociales (diario),Nivel máximo de educación alcanzada por tus padres (el nivel máximo de alguno de los dos),¿Trabajas?,"¿Eres fóraneo? (Si vives con un familiar, escoge no)",Promedio escolar de preparatoria,Semestre
+1,9/8/24 19:23:56,9/8/24 19:25:43,anonymous,,,60,12,5,21,3,Licenciatura / Ingeniería,No,No,92,5
+2,9/8/24 19:25:14,9/8/24 19:32:11,anonymous,,,86,4,8,21,4,Licenciatura / Ingeniería,No,No,91,7
+3,9/8/24 19:26:24,9/8/24 19:32:48,anonymous,,,97,25,7,22,3,Licenciatura / Ingeniería,Sí,Sí,98,9
+4,9/8/24 19:27:44,9/8/24 19:34:59,anonymous,,,92,8,6,23,1.5,Licenciatura / Ingeniería,Sí,No,88,7
+5,9/8/24 19:38:29,9/8/24 19:39:43,anonymous,,,99,2,6,22,4,Posgrado,Sí,No,99,9
+6,9/8/24 19:45:40,9/8/24 19:46:21,anonymous,,,100,6,7,20,4,Licenciatura / Ingeniería,No,No,98,7
+7,9/8/24 19:55:27,9/8/24 19:56:52,anonymous,,,97,40,9,22,1,Posgrado,Sí,No,93,9
+8,9/8/24 20:47:43,9/8/24 20:48:38,anonymous,,,91,8,5,21,4,Licenciatura / Ingeniería,Sí,No,96,9
+9,9/8/24 21:26:19,9/8/24 21:27:00,anonymous,,,97,40,6,20,6,Posgrado,Sí,No,93,9
+10,9/8/24 21:26:55,9/8/24 21:27:52,anonymous,,,89,5,3,24,3,Licenciatura / Ingeniería,Sí,No,95,8
+11,9/9/24 16:42:07,9/9/24 16:44:03,anonymous,,,85,28,6,23,3,Educación secundaria,No,No,94,11
+12,9/9/24 16:40:56,9/9/24 16:57:30,anonymous,,,93,16,7,23,3,Licenciatura / Ingeniería,No,Sí,97,12
+13,9/9/24 17:06:38,9/9/24 17:09:40,anonymous,,,95,12,7,23,5,Licenciatura / Ingeniería,Sí,No,98,12
+14,9/9/24 17:12:49,9/9/24 17:13:22,anonymous,,,99,18,7,23,4,Licenciatura / Ingeniería,No,No,93,8
+15,9/9/24 17:15:00,9/9/24 17:16:07,anonymous,,,99.6,7,7.5,24,1,Licenciatura / Ingeniería,Sí,No,93,10
+16,9/9/24 17:13:27,9/9/24 17:16:54,anonymous,,,98,20,8,23,2,Licenciatura / Ingeniería,Sí,No,93,8
+17,9/9/24 17:30:37,9/9/24 17:32:55,anonymous,,,96,22,6,33,2,Posgrado,No,Sí,87,8
+18,9/9/24 17:44:20,9/9/24 17:48:24,anonymous,,,94,12,7,23,3,Posgrado,No,No,94,11
+19,9/9/24 17:49:24,9/9/24 17:53:21,anonymous,,,80,60,6,25,2,Educación preparatoria,Sí,No,84,11
+20,9/9/24 17:56:41,9/9/24 17:57:37,anonymous,,,96,30,5,21,3,Licenciatura / Ingeniería,No,Sí,98,7
+21,9/9/24 17:56:33,9/9/24 17:59:35,anonymous,,,87,8,6,23,2,Licenciatura / Ingeniería,Sí,No,92,9
+22,9/9/24 18:00:02,9/9/24 18:00:55,anonymous,,,92,6,7,21,4,Licenciatura / Ingeniería,No,No,80,7
+23,9/9/24 18:06:15,9/9/24 18:07:21,anonymous,,,89,4,6,21,1,Licenciatura / Ingeniería,Sí,No,89,7
+24,9/9/24 18:05:04,9/9/24 18:07:24,anonymous,,,95.6,4,6,21,2,Posgrado,No,No,92,7
+25,9/9/24 18:11:13,9/9/24 18:13:27,anonymous,,,98,30,6,22,2,Posgrado,Sí,No,98,9
+26,9/9/24 18:15:34,9/9/24 18:16:23,anonymous,,,92,6,6,22,2,Posgrado,Sí,No,95,8
+27,9/9/24 18:30:40,9/9/24 18:31:54,anonymous,,,99.9,8,7,22,3,Posgrado,Sí,No,95.6,9
+28,9/9/24 18:33:43,9/9/24 18:35:19,anonymous,,,91,8,6,22,2,Licenciatura / Ingeniería,Sí,Sí,96,8
+29,9/9/24 18:39:01,9/9/24 18:40:19,anonymous,,,99,6,8,22,0.5,Posgrado,Sí,No,97,9
+30,9/9/24 19:24:54,9/9/24 19:26:09,anonymous,,,93,10,6,22,5,Licenciatura / Ingeniería,Sí,No,90,9
+31,9/9/24 20:01:02,9/9/24 20:02:36,anonymous,,,92,5,6,21,2,Posgrado,Sí,No,95,8
+32,9/9/24 20:00:55,9/9/24 20:02:41,anonymous,,,91,7,6,21,2,Licenciatura / Ingeniería,Sí,Sí,97,9
+33,9/9/24 20:01:01,9/9/24 20:03:41,anonymous,,,90,10,7,21,3,Educación secundaria,Sí,Sí,85,8
+34,9/9/24 20:01:04,9/9/24 20:04:00,anonymous,,,91,8,6,23,6,Educación preparatoria,Sí,Sí,86,9
+35,9/9/24 21:32:03,9/9/24 21:32:54,anonymous,,,96,2,8,22,3,Licenciatura / Ingeniería,Sí,No,97,9
+36,9/10/24 11:03:47,9/10/24 11:04:56,anonymous,,,91,14,7,21,2,Posgrado,No,No,97,6
+37,9/10/24 11:15:11,9/10/24 11:17:38,anonymous,,,100,30,9,20,5,Posgrado,Sí,No,99,3
+38,9/10/24 11:17:13,9/10/24 11:21:08,anonymous,,,94.6,13,7,20,3,Educación secundaria,Sí,No,96,5
+39,9/10/24 11:26:41,9/10/24 11:27:30,anonymous,,,99,26,5,21,2,Licenciatura / Ingeniería,No,No,96,5
+40,9/10/24 11:52:15,9/10/24 11:54:06,anonymous,,,87,12,7,20,3,Licenciatura / Ingeniería,No,No,92,5
